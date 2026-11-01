@@ -7,3 +7,5 @@ print(name)
 print(age)
 print(city)
 print(college)
+print("welcome to python Learnign")
+user name="enter your name"
